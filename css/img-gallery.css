@@ -1,0 +1,10 @@
+.gall-img-responsive{width:100%!important;height:auto!important;display:block!important}
+.gal-container{margin-bottom:60px;padding-top:20px;overflow:hidden;display:block}
+.b-wrapper h2{color:#fff!important;font-size:17px!important;padding-bottom:5px!important;margin-bottom:5px!important;padding-left:5px!important;padding-right:5px!important}
+.b-wrapper p a i{color:#fff!important}
+.lergs-gallery{margin-bottom:20px}
+#logicrays .owl-prev {position: absolute;top: 40%;left: .5em;background: #f00 !important;}
+#logicrays .owl-next {position: absolute;top: 40%;right: .5em;background: #f00 !important;}
+#logicrays .owl-prev .fa,#logicrays .owl-next .fa {font-weight: bold;font-size: 20px;}
+media="all"
+:before,:after{-moz-box-sizing:border-box;box-sizing:content-box}
